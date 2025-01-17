@@ -95,7 +95,7 @@ b. Optimize procurement strategies to reduce drug costs, including trying out ne
 
 c. Apply FEFO rule  (First Expiry, First Out) when stocking to prevent expiry of drugs
 
-For more information, kindly reach out to me 
+
 
 
 
