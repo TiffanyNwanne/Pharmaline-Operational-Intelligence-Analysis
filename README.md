@@ -1,4 +1,4 @@
-# Financial Analysis Report for a Niigerian Pharmacy 
+# Financial Analysis Report for a Nigerian Pharmacy 
 
 ## 1. Introduction
 This report presents an analysis of pharmaceutical sales data, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
@@ -87,7 +87,8 @@ b. Drug purchase accounts for the largest portion of expenses.
 
 c. Despite high revenue, reducing procurement costs can improve profitability.
 
-7.2 Recommendations
+### 7.2 Recommendations
+
 a. Increase inventory for high-demand drugs (Antiallergies, Antidiabetic).
 
 b. Optimize procurement strategies to reduce drug costs, including trying out new suppliers to find cheaper options.
