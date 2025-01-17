@@ -18,10 +18,13 @@ The dataset gotten from the pharmacy's database consists of pharmaceutical produ
 
 **Product Code:** Unique identifier for each product
 
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Data%20Overview.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Data%20Overview.png)
 
 ## 3. Sales Performance Analysis
 
 ### 3.1. Total Sales and Units Sold
+
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png)
 
 **Grand Total Sales:** ₦12,436,500
 **Total Units Sold:** 3,825 units
@@ -44,6 +47,8 @@ Key insights:
 ## 4. Cost Analysis
 
 ### 4.1. Total Drug Cost
+
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png)
 
 **Grand Total Drug Cost:** ₦3,988,846.45
 
@@ -76,7 +81,11 @@ Salaries were the second largest, contributing **29.8%** of total costs.
 
 **Sales by Category** – A bar chart depicting total sales per drug category.
 
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Sales%20by%20Category.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Sales%20by%20Category.png)
+
 **Expense Breakdown** – A visualization of business expenses distribution.
+
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Expense%20Breakdown.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Expense%20Breakdown.png)
 
 ## 7. Conclusion & Recommendations
 
