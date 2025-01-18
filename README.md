@@ -2,7 +2,7 @@
 
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/PHARMACY%20SALES%20ANALYSIS.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/PHARMACY%20SALES%20ANALYSIS.png)
 ## 1. Introduction
-This report presents an analysis of pharmaceutical sales data, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
+This report presents an analysis of a pharmacy's January sales, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
 
 ## 2. Data Overview
 The dataset gotten from the pharmacy's database consists of pharmaceutical product sales, including:
