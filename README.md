@@ -103,7 +103,7 @@ a. Increase inventory for high-demand drugs (Antiallergies, Antidiabetic).
 
 b. Optimize procurement strategies to reduce drug costs, including trying out new suppliers to find cheaper options.
 
-c. Apply FEFO rule  (First Expiry, First Out) when stocking to prevent expiry of drugs
+c. Apply FEFO rule  (First Expiry, First Out) when stocking to prevent expiry of drugs before their usage
 
 
 
