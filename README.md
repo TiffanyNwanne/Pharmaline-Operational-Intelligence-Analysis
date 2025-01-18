@@ -1,5 +1,6 @@
 # Financial Analysis Report for a Nigerian Pharmacy 
 
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/PHARMACY%20SALES%20ANALYSIS.jpeg))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/PHARMACY%20SALES%20ANALYSIS.jpeg)
 ## 1. Introduction
 This report presents an analysis of pharmaceutical sales data, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
 
