@@ -101,11 +101,18 @@ c. Despite high revenue, reducing procurement costs can improve profitability.
 
 ### 7.2 Recommendations
 
-a. Increase inventory for high-demand drugs (Antiallergies, Antidiabetic).
+#### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
 
-b. Optimize procurement strategies to reduce drug costs, including trying out new suppliers to find cheaper options.
+Ensuring a stable supply of essential medications, particularly antiallergic and antidiabetic drugs, is crucial to meeting patient demand and avoiding stockouts. These categories of drugs are consistently in high demand , with the former, due to the harmattan season, and the latter due to the prevalence of diabetes.
 
-c. Apply FEFO rule  (First Expiry, First Out) when stocking to prevent expiry of drugs before their usage
+#### 2. Optimize Procurement Strategies to Reduce Drug Costs
+
+To optimize procurement and reduce drug costs,  prices with existing suppliers can be negotiated better to secure bulk purchase discounts and flexible payment terms. Exploring new suppliers through market research can also help identify cost-effective options while maintaining quality standards. Additionally, buying in bulk for high-demand drugs with long shelf lives lowers per-unit costs and ensures a steady supply, preventing stockouts and enhancing cost efficiency.
+
+#### 3. Apply FEFO Rule (First Expiry, First Out) to Prevent Drug Expiry
+
+The First Expiry, First Out (FEFO) rule ensures that medications with the nearest expiration dates are dispensed first, preventing waste due to expired stock.
+
 
 
 
