@@ -92,6 +92,7 @@ Salaries were the second largest, contributing **29.8%** of total costs.
 ## 7. Conclusion & Recommendations
 
 ### 7.1 Key Findings
+
 a. Antiallergies and Antidiabetic drugs contribute the most revenue.
 
 b. Drug purchase accounts for the largest portion of expenses.
