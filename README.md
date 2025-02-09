@@ -33,7 +33,7 @@ The dataset gotten from the pharmacy's database consists of pharmaceutical produ
 
 | **Category**       | **Total Sales (₦)** |
 |--------------------|------------------|
-| Antiallergies     | 1,853,000        |
+| Antihistamines     | 1,853,000        |
 | Antidiabetic      | 1,780,000        |
 | Analgesic        | 1,606,000        |
 | Antiseptic       | 1,532,000        |
@@ -42,7 +42,7 @@ The dataset gotten from the pharmacy's database consists of pharmaceutical produ
 
 Key insights:
 
-**Antiallergies and Antidiabetic drugs** are the top revenue generators.
+**Antihistamines and Antidiabetic drugs** are the top revenue generators.
 **Antifungal drugs** had the lowest sales at ₦225,000.
 
 ## 4. Cost Analysis
@@ -78,27 +78,17 @@ Business expenses were categorized as follows:
 **The largest expense** was **drug procurement**, accounting for **59.4%** of total expenses.
 Salaries were the second largest, contributing **29.8%** of total costs.
 
-## 6. Visual Insights
+## 6. Conclusion & Recommendations
 
-**Sales by Category** – A bar chart depicting total sales per drug category.
+### 6.1 Key Findings
 
-[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Sales%20by%20Category.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Sales%20by%20Category.png)
-
-**Expense Breakdown** – A visualization of business expenses distribution.
-
-[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Expense%20Breakdown.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Expense%20Breakdown.png)
-
-## 7. Conclusion & Recommendations
-
-### 7.1 Key Findings
-
-a. Antiallergies and Antidiabetic drugs contribute the most revenue.
+a. Antihistamines and Antidiabetic drugs contribute the most revenue.
 
 b. Drug purchase accounts for the largest portion of expenses.
 
 c. Despite high revenue, reducing procurement costs can improve profitability.
 
-### 7.2 Recommendations
+### 6.2 Recommendations
 
 #### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
 
