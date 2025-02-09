@@ -1,4 +1,4 @@
-#Pharmacy Sales Report
+# Pharmacy Sales Report
 
 [![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
 ## 1. Introduction
