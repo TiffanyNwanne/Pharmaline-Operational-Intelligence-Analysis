@@ -1,6 +1,6 @@
 # Financial Analysis Report for a Nigerian Pharmacy 
 
-[![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
 ## 1. Introduction
 This report presents an analysis of a pharmacy's January sales, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
 
