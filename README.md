@@ -81,6 +81,106 @@ Salaries were the second largest, contributing **29.8%** of total costs.
 ## Analysis & Insights
 
 ## Questions & Clarifications
+### 👤 Chief Financial Officer (CFO)
+
+#### 💬 Q1: What is our gross profit margin, and is it healthy?
+➡️ **A:**  
+Yes, very healthy.  
+**Gross Profit** = ₦12,436,500 (Total Sales) – ₦3,988,846.45 (Total Drug Cost) = **₦8,447,653.55**  
+**Gross Margin** = (₦8,447,653.55 / ₦12,436,500) × 100 = **~67.9%**  
+This is a strong margin, suggesting that pricing is efficient and overhead costs are being managed effectively.
+
+#### 💬 Q2: Which drug categories are most and least profitable?
+➡️ **A:**  
+While detailed per-category profitability data requires unit cost per category, top-line sales give an indication:  
+- **Top Revenue Generators:** Antihistamines (₦1.85M) and Antidiabetics (₦1.78M)  
+- **Lowest Performer:** Antifungals (₦225K)  
+
+Assuming similar markup across categories, Antifungals are likely less profitable and may be overstocked or under-demanded.
+
+#### 💬 Q3: What are the biggest contributors to our overall expenses?
+➡️ **A:**  
+- **Drug Procurement:** ₦3.99M (59.4% of all expenses)  
+- **Salaries:** ₦2M (29.8%)  
+- **Other Costs (Rent, Logistics, Damage):** 10.8%
+
+#### 💬 Q4: Can procurement costs be optimized?
+➡️ **A:**  
+Yes. High procurement costs, especially in categories like **Antimalarials** (₦334,574 in costs), indicate room for negotiation.  
+**Recommendation:**  
+- Renegotiate bulk deals  
+- Explore alternative suppliers for better pricing
+
+---
+
+### 👤 Head of Inventory
+
+#### 💬 Q5: Which drug categories are in highest demand?
+➡️ **A:**  
+**Top Sellers:**  
+- Antihistamines (₦1.85M)  
+- Antidiabetics (₦1.78M)  
+- Analgesics (₦1.6M)  
+
+This implies high patient need — possibly seasonal (allergies) or chronic (diabetes).
+
+#### 💬 Q6: Which items are moving too slowly and may risk expiry?
+➡️ **A:**  
+**Antifungals**, with just ₦225K in sales, are significantly underperforming.  
+This may indicate overstock or misaligned inventory planning.  
+**Action:** Consider reduced ordering or promotional clearance.
+
+#### 💬 Q7: Are current inventory levels aligned with sales demand?
+➡️ **A:**  
+**Partially.** While top categories are moving well, stock alignment may be suboptimal for low-volume products.  
+**Action:**  
+- Implement regular stock-to-sales analysis  
+- Adopt a demand-driven restocking model
+
+---
+
+### 👤 Marketing Lead
+
+#### 💬 Q8: Are seasonal conditions influencing drug sales?
+➡️ **A:**  
+Yes.  
+**Harmattan season** likely drove high Antihistamine sales due to respiratory allergies.  
+This suggests marketing efforts should shift dynamically with the climate.
+
+#### 💬 Q9: Which categories are worth promoting more?
+➡️ **A:**  
+- **Antidiabetics**: High sellers with consistent demand (chronic conditions)  
+- **Analgesics & Antiseptics**: Strong volumes  
+
+These are stable revenue drivers and ideal for cross-promotions and loyalty campaigns.
+
+#### 💬 Q10: How can marketing reduce inventory risk for slow-moving products?
+➡️ **A:**  
+Promotional campaigns targeting **Antifungals** (low sales) can increase awareness.  
+**Suggestions:**  
+- Combo offers  
+- Bundles  
+- Pharmacy advice sessions
+
+---
+
+### 👤 Operations Manager
+
+#### 💬 Q11: How much loss are we incurring from expired or damaged drugs?
+➡️ **A:**  
+₦60,000 in January — less than 1% of total expenses, but still a preventable cost.  
+Frequent minor losses may accumulate over time.
+
+#### 💬 Q12: How can we reduce losses from expiry?
+➡️ **A:**  
+Implement the **FEFO (First Expiry, First Out)** inventory system across all stock.  
+This ensures older stock is sold first, reducing expiry risk.
+
+#### 💬 Q13: Is logistics spending proportional to our delivery volume?
+➡️ **A:**  
+₦210,000 (3.1% of total expenses) is within reason but worth reviewing if volume is low.  
+**Action:** Benchmark delivery volume vs. spend to validate cost efficiency.
+
 
 #### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
 
