@@ -181,6 +181,7 @@ This ensures older stock is sold first, reducing expiry risk.
 ₦210,000 (3.1% of total expenses) is within reason but worth reviewing if volume is low.  
 **Action:** Benchmark delivery volume vs. spend to validate cost efficiency.
 
+## Recommendations
 
 #### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
 
