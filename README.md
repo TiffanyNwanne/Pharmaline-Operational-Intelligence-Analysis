@@ -22,7 +22,9 @@ Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**,
 
 The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly. Procurement cost remains the **largest single expense**, making it a strategic focus area for cost optimization.
 
-### 3.1. Total Sales and Units Sold
+## Revenue Breakdown
+
+### Total Sales and Units Sold
 
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png)
 
@@ -44,9 +46,8 @@ Key insights:
 **Antihistamines and Antidiabetic drugs** are the top revenue generators.
 **Antifungal drugs** had the lowest sales at ₦225,000.
 
-## 4. Cost Analysis
 
-### 4.1. Total Drug Cost
+### Total Drug Cost
 
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png)
 
@@ -54,14 +55,14 @@ Key insights:
 
 The costliest category was **Antimalarial drugs**, totaling ₦334,574 in drug costs.
 
-## 4.2. Profitability Analysis
+### Profitability Analysis
 
 **Gross Profit = Total Sales - Total Drug Cost**
 
 **₦12,436,500 - ₦3,988,846.45 = ₦8,447,653.55**
 The profit margin across all products is approximately 67.9%, indicating strong financial performance.
 
-## 5. Expense Breakdown
+### Expense Breakdown
 
 Business expenses were categorized as follows:
 
@@ -77,17 +78,9 @@ Business expenses were categorized as follows:
 **The largest expense** was **drug procurement**, accounting for **59.4%** of total expenses.
 Salaries were the second largest, contributing **29.8%** of total costs.
 
-## 6. Conclusion & Recommendations
+## Analysis & Insights
 
-### 6.1 Key Findings
-
-a. Antihistamines and Antidiabetic drugs contribute the most revenue.
-
-b. Drug purchase accounts for the largest portion of expenses.
-
-c. Despite high revenue, reducing procurement costs can improve profitability.
-
-### 6.2 Recommendations
+## Questions & Clarifications
 
 #### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
 
