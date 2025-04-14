@@ -1,27 +1,26 @@
-# Pharmacy Sales Report
+# Pharmaline Operational Intelligence Insight Report
+
+## Project Background
+Pharmaline, a regional community pharmacy, concluded its January sales period with strong revenue growth, yet operational and cost challenges persist. With increasing competition and fluctuating drug demand, the leadership team is seeking a more data-informed approach to inventory planning, cost control, and profitability optimization.
+
+In collaboration with Pharmaline’s leadership team — comprising the **Chief Financial Officer (CFO)**, **Head of Inventory**, **Marketing Lead**, and **Operations Manager** — this project was designed to investigate financial performance, product demand trends, cost structures, and operational bottlenecks.
+
+## Stakeholder Questions
+| **Stakeholder** | **Focus Area** | **Key Business Questions** |
+| --- | --- | --- |
+| Chief Financial Officer (CFO) | Profitability & Expense Analysis | - What is the overall gross profit margin?- Which categories are most and least profitable?- Where can procurement costs be optimized? |
+| Head of Inventory | Product Demand & Stock Planning | - Which drugs have the highest and lowest sales?- Are we maintaining appropriate stock levels for high-demand items?- Which categories may be overstocked? |
+| Marketing Lead | Seasonal and Category Trends | - Are seasonal factors influencing sales patterns? |
+| Operations Manager | Cost Control & Waste Management | - What are the major operational expenses? |
+
+
+## Executive Summary
 
 [![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
-## 1. Introduction
-This report presents an analysis of a pharmacy's January sales, focusing on key metrics such as total sales, unit sales, cost calculations, and business expenses. It provides insights into drug categories, sales distribution, and financial performance.
 
-## 2. Data Overview
-The dataset gotten from the pharmacy's database consists of pharmaceutical product sales, including:
+Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**, with strong contributions from **Antihistamines** and **Antidiabetic** drugs. Gross profit stood at **₦8.45 million**, reflecting a **67.9% gross margin**, although significant costs in procurement and salary expenses highlight opportunities for better cost control.
 
-**Product Name:** Various drugs and healthcare items
-
-**Units Sold:** Number of units sold per product
-
-**Unit Price:** Selling price per unit
-
-**Unit Cost:** Cost of procurement per unit
-
-**Category:** Classification of drugs
-
-**Product Code:** Unique identifier for each product
-
-[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Data%20Overview.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Data%20Overview.png)
-
-## 3. Sales Performance Analysis
+The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly. Procurement cost remains the **largest single expense**, making it a strategic focus area for cost optimization.
 
 ### 3.1. Total Sales and Units Sold
 
