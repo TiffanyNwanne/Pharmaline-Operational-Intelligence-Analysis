@@ -22,7 +22,7 @@ Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**,
 
 The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly. Procurement cost remains the **largest single expense**, making it a strategic focus area for cost optimization.
 
-## Revenue Breakdown
+## Balance Sheet
 
 ### Total Sales and Units Sold
 
