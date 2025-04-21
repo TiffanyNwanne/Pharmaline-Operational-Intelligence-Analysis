@@ -79,20 +79,29 @@ Business expenses were categorized as follows:
 Salaries were the second largest, contributing **29.8%** of total costs.
 
 ## Analysis & Insights
+
 **What are the major operational expenses?**
+
 Rent takes a huge chunk of the expenses followed by salaries.
+
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Expenses.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Expenses.png)
 
 **Are seasonal factors influencing sales patterns?**
+
 Yes, season affects sales, For instance, because there’s an increase in sales of Antihistamines (best selling drug class) compared to the last two months, due to the harmattan season. Each season has its own essential drugs so it will definitely affect sales patterns.
+
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Seasonal%20Factors.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Seasonal%20Factors.png)
 
 **Which drugs have the highest and lowest sales?**
-The best selling drug is Paracetamol at 300 units while has the lowest is Cefriazone with only 20 units.
+
+The best selling drug is Paracetamol at 300 units while the lowest is Cefriazone with only 20 units.
+
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Drugs%20with%20highest%20and%20lowest%20sales.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Drugs%20with%20highest%20and%20lowest%20sales.png)
 
 **Which categories are most and least profitable**
-The drugs categories that generate the most profit are the antidiabetics with a whooping #1.4M naira while the least profitable are antifungals with the sum of #140k
+
+The drug categories that generate the most profit are the antidiabetics with a whooping sum of ₦1.4 million while the least profitable are antifungals with the sum of ₦140,000.
+
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Most%20and%20least%20profitable%20categories.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Most%20and%20least%20profitable%20categories.png)
 
 ## Questions & Clarifications
