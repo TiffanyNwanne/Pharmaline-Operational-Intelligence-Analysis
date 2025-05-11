@@ -1,7 +1,21 @@
 # Pharmaline Operational Intelligence Insight Report
 
-## Table Of Contents 
-- [Project Background](#Project Background)
+## Table Of Contents
+- [Project Background](#project-background)
+- [Stakeholder Questions](#stakeholder-questions)
+- [Executive Summary](#executive-summary)
+- [Balance Sheet](#balance-sheet)
+  - [Total Sales and Units Sold](#total-sales-and-units-sold)
+  - [Total Drug Cost](#total-drug-cost)
+  - [Profitability Analysis](#profitability-analysis)
+  - [Expense Breakdown](#expense-breakdown)
+- [Analysis & Insights](#analysis--insights)
+- [Questions & Clarifications](#questions--clarifications)
+  - [Chief Financial Officer (CFO)](#chief-financial-officer-cfo)
+  - [Head of Inventory](#head-of-inventory)
+  - [Marketing Lead](#marketing-lead)
+  - [Operations Manager](#operations-manager)
+- [Recommendations](#recommendations)
 
 ## Project Background
 Pharmaline, a regional community pharmacy, concluded its January sales period with strong revenue growth, yet operational and cost challenges persist. With increasing competition and fluctuating drug demand, the leadership team is seeking a more data-informed approach to inventory planning, cost control, and profitability optimization.
