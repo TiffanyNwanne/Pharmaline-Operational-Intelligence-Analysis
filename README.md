@@ -18,11 +18,13 @@
 - [Recommendations](#recommendations)
 
 ## Project Background
+[Back to Table of Contents](#table-of-contents)
 Pharmaline, a regional community pharmacy, concluded its January sales period with strong revenue growth, yet operational and cost challenges persist. With increasing competition and fluctuating drug demand, the leadership team is seeking a more data-informed approach to inventory planning, cost control, and profitability optimization.
 
 In collaboration with Pharmaline’s leadership team — comprising the **Chief Financial Officer (CFO)**, **Head of Inventory**, **Marketing Lead**, and **Operations Manager** — this project was designed to investigate financial performance, product demand trends, cost structures, and operational bottlenecks.
 
 ## Stakeholder Questions
+[Back to Table of Contents](#table-of-contents)
 | **Stakeholder** | **Focus Area** | **Key Business Questions** |
 | --- | --- | --- |
 | Chief Financial Officer (CFO) | Profitability & Expense Analysis | ?- Which categories are most and least profitable?- |
@@ -32,6 +34,7 @@ In collaboration with Pharmaline’s leadership team — comprising the **Chief 
 
 
 ## Executive Summary
+[Back to Table of Contents](#table-of-contents)
 
 [![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
 
@@ -40,6 +43,7 @@ Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**,
 The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly. Procurement cost remains the **largest single expense**, making it a strategic focus area for cost optimization.
 
 ## Balance Sheet
+[Back to Table of Contents](#table-of-contents)
 
 ### Total Sales and Units Sold
 
@@ -96,6 +100,7 @@ Business expenses were categorized as follows:
 Salaries were the second largest, contributing **29.8%** of total costs.
 
 ## Analysis & Insights
+[Back to Table of Contents](#table-of-contents)
 
 **What are the major operational expenses?**
 
@@ -122,6 +127,7 @@ The drug categories that generate the most profit are the antidiabetics with a w
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Most%20and%20least%20profitable%20categories.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Most%20and%20least%20profitable%20categories.png)
 
 ## Questions & Clarifications
+[Back to Table of Contents](#table-of-contents)
 ### 👤 Chief Financial Officer (CFO)
 
 #### 💬 Q1: What is our gross profit margin, and is it healthy?
