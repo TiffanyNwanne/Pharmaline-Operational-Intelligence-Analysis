@@ -19,12 +19,14 @@
 
 ## Project Background
 [Back to Table of Contents](#table-of-contents)
+
 Pharmaline, a regional community pharmacy, concluded its January sales period with strong revenue growth, yet operational and cost challenges persist. With increasing competition and fluctuating drug demand, the leadership team is seeking a more data-informed approach to inventory planning, cost control, and profitability optimization.
 
 In collaboration with Pharmaline’s leadership team — comprising the **Chief Financial Officer (CFO)**, **Head of Inventory**, **Marketing Lead**, and **Operations Manager** — this project was designed to investigate financial performance, product demand trends, cost structures, and operational bottlenecks.
 
 ## Stakeholder Questions
 [Back to Table of Contents](#table-of-contents)
+
 | **Stakeholder** | **Focus Area** | **Key Business Questions** |
 | --- | --- | --- |
 | Chief Financial Officer (CFO) | Profitability & Expense Analysis | ?- Which categories are most and least profitable?- |
@@ -128,6 +130,7 @@ The drug categories that generate the most profit are the antidiabetics with a w
 
 ## Questions & Clarifications
 [Back to Table of Contents](#table-of-contents)
+
 ### 👤 Chief Financial Officer (CFO)
 
 #### 💬 Q1: What is our gross profit margin, and is it healthy?
