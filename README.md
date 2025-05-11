@@ -1,5 +1,8 @@
 # Pharmaline Operational Intelligence Insight Report
 
+## Table Of Contents 
+- [Project Background](## Project Background)
+
 ## Project Background
 Pharmaline, a regional community pharmacy, concluded its January sales period with strong revenue growth, yet operational and cost challenges persist. With increasing competition and fluctuating drug demand, the leadership team is seeking a more data-informed approach to inventory planning, cost control, and profitability optimization.
 
