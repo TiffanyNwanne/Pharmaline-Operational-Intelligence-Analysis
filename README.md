@@ -44,62 +44,6 @@ Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**,
 
 The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly. Procurement cost remains the **largest single expense**, making it a strategic focus area for cost optimization.
 
-## Balance Sheet
-[Back to Table of Contents](#table-of-contents)
-
-### Total Sales and Units Sold
-
-[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Sales%20and%20Units%20Sold.png)
-
-**Grand Total Sales:** ₦12,436,500
-**Total Units Sold:** 3,825 units
-
-
-| **Category**       | **Total Sales (₦)** |
-|--------------------|------------------|
-| Antihistamines     | 1,853,000        |
-| Antidiabetic      | 1,780,000        |
-| Analgesic        | 1,606,000        |
-| Antiseptic       | 1,532,000        |
-| Antimalarial     | 1,480,000        |
-| Antibiotics      | 1,361,500        |
-
-Key insights:
-
-**Antihistamines and Antidiabetic drugs** are the top revenue generators.
-**Antifungal drugs** had the lowest sales at ₦225,000.
-
-
-### Total Drug Cost
-
-[![Preview Image](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png))](https://github.com/TiffanyNwanne/Pharmaceutical-Financial-Analysis/blob/main/images/Total%20Drug%20Cost.png)
-
-**Grand Total Drug Cost:** ₦3,988,846.45
-
-The costliest category was **Antimalarial drugs**, totaling ₦334,574 in drug costs.
-
-### Profitability Analysis
-
-**Gross Profit = Total Sales - Total Drug Cost**
-
-**₦12,436,500 - ₦3,988,846.45 = ₦8,447,653.55**
-The profit margin across all products is approximately 67.9%, indicating strong financial performance.
-
-### Expense Breakdown
-
-Business expenses were categorized as follows:
-
-| **Expense Type**    | **Amount (₦)**  |
-|---------------------|---------------|
-| Salaries           | 2,000,000     |
-| Rent              | 450,000       |
-| Drug Purchase     | 3,988,846.45  |
-| Logistics        | 210,000       |
-| Drug Damage/Expiry | 60,000        |
-| **Total Expenses** | **₦6,708,846.45** |
-
-**The largest expense** was **drug procurement**, accounting for **59.4%** of total expenses.
-Salaries were the second largest, contributing **29.8%** of total costs.
 
 ## Analysis & Insights
 [Back to Table of Contents](#table-of-contents)
