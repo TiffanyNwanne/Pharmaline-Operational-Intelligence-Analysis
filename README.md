@@ -38,7 +38,7 @@ In collaboration with Pharmaline’s leadership team — comprising the **Chief 
 ## Executive Summary
 [Back to Table of Contents](#table-of-contents)
 
-[![Preview Image](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/Dashboard%201.png))](https://github.com/TiffanyNwanne/Financial-Analysis-for-a-Pharmacy/blob/main/images/PHARMACY%20SALES%20%20DASHBOARD.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Overview%20Dashboard%20.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Overview%20Dashboard%20.png)
 
 Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**, with strong contributions from **Antihistamines** and **Antidiabetic** drugs. Gross profit stood at **₦8.45 million**, reflecting a **67.9% gross margin**, although significant costs in procurement and salary expenses highlight opportunities for better cost control.
 
