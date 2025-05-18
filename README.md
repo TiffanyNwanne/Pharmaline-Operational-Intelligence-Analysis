@@ -114,31 +114,25 @@ This implies high patient need — possibly seasonal (allergies) or chronic (dia
 This may indicate overstock or misaligned inventory planning.  
 **Action:** Consider reduced ordering or promotional clearance.
 
-#### 💬 Q7: Are current inventory levels aligned with sales demand?
-➡️ **A:**  
-**Partially.** While top categories are moving well, stock alignment may be suboptimal for low-volume products.  
-**Action:**  
-- Implement regular stock-to-sales analysis  
-- Adopt a demand-driven restocking model
 
 ---
 
 ### 👤 Marketing Lead
 
-#### 💬 Q8: Are seasonal conditions influencing drug sales?
+#### 💬 Q7: Are seasonal conditions influencing drug sales?
 ➡️ **A:**  
 Yes.  
 **Harmattan season** likely drove high Antihistamine sales due to respiratory allergies.  
 This suggests marketing efforts should shift dynamically with the climate.
 
-#### 💬 Q9: Which categories are worth promoting more?
+#### 💬 Q8: Which categories are worth promoting more?
 ➡️ **A:**  
 - **Antidiabetics**: High sellers with consistent demand (chronic conditions)  
 - **Analgesics & Antiseptics**: Strong volumes  
 
 These are stable revenue drivers and ideal for cross-promotions and loyalty campaigns.
 
-#### 💬 Q10: How can marketing reduce inventory risk for slow-moving products?
+#### 💬 Q9: How can marketing reduce inventory risk for slow-moving products?
 ➡️ **A:**  
 Promotional campaigns targeting **Antifungals** (low sales) can increase awareness.  
 **Suggestions:**  
@@ -150,17 +144,17 @@ Promotional campaigns targeting **Antifungals** (low sales) can increase awarene
 
 ### 👤 Operations Manager
 
-#### 💬 Q11: How much loss are we incurring from expired or damaged drugs?
+#### 💬 Q10: How much loss are we incurring from expired or damaged drugs?
 ➡️ **A:**  
 ₦60,000 in January — less than 1% of total expenses, but still a preventable cost.  
 Frequent minor losses may accumulate over time.
 
-#### 💬 Q12: How can we reduce losses from expiry?
+#### 💬 Q11: How can we reduce losses from expiry?
 ➡️ **A:**  
 Implement the **FEFO (First Expiry, First Out)** inventory system across all stock.  
 This ensures older stock is sold first, reducing expiry risk.
 
-#### 💬 Q13: Is logistics spending proportional to our delivery volume?
+#### 💬 Q12: Is logistics spending proportional to our delivery volume?
 ➡️ **A:**  
 ₦210,000 (3.1% of total expenses) is within reason but worth reviewing if volume is low.  
 **Action:** Benchmark delivery volume vs. spend to validate cost efficiency.
