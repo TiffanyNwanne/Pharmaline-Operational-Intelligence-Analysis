@@ -20,7 +20,7 @@ In collaboration with Pharmaline’s leadership team — comprising the **Chief 
 
 | **Stakeholder** | **Focus Area** | **Key Business Questions** |
 | --- | --- | --- |
-| Chief Financial Officer (CFO) | Profitability & Expense Analysis | ?- Which categories are most and least profitable?- |
+| Chief Financial Officer (CFO) | Profitability & Expense Analysis | - Which categories are most and least profitable? |
 | Head of Inventory | Product Demand & Stock Planning | - Which drugs have the highest and lowest sales? |
 | Marketing Lead | Seasonal and Category Trends | - Are seasonal factors influencing sales patterns? |
 | Operations Manager | Cost Control & Waste Management | - What are the major operational expenses? |
