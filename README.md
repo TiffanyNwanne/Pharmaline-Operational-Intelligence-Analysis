@@ -6,10 +6,6 @@
 - [Executive Summary](#executive-summary)
 - [Analysis & Insights](#analysis--insights)
 - [Questions & Clarifications](#questions--clarifications)
-  - [Chief Financial Officer (CFO)](#chief-financial-officer-cfo)
-  - [Head of Inventory](#head-of-inventory)
-  - [Marketing Lead](#marketing-lead)
-  - [Operations Manager](#operations-manager)
 - [Recommendations](#recommendations)
 
 ## Project Background
