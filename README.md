@@ -161,17 +161,11 @@ This ensures older stock is sold first, reducing expiry risk.
 
 ## Recommendations
 
-#### 1. Increase Inventory for High-Demand Drugs (Antiallergies, Antidiabetic)
+1. Ensure a stable supply of high-demand drugs, especially antiallergic (during harmattan) and antidiabetic medications, to meet patient needs and avoid stockouts.
 
-Ensuring a stable supply of essential medications, particularly antiallergic and antidiabetic drugs, is crucial to meeting patient demand and avoiding stockouts. These categories of drugs are consistently in high demand , with the former, due to the harmattan season, and the latter due to the prevalence of diabetes.
+2. Reduce drug costs by negotiating better terms with current suppliers, sourcing affordable alternatives through market research, and purchasing high-demand, long-shelf-life drugs in bulk.
 
-#### 2. Optimize Procurement Strategies to Reduce Drug Costs
-
-To optimize procurement and reduce drug costs,  prices with existing suppliers can be negotiated better to secure bulk purchase discounts and flexible payment terms. Exploring new suppliers through market research can also help identify cost-effective options while maintaining quality standards. Additionally, buying in bulk for high-demand drugs with long shelf lives lowers per-unit costs and ensures a steady supply, preventing stockouts and enhancing cost efficiency.
-
-#### 3. Apply FEFO Rule (First Expiry, First Out) to Prevent Drug Expiry
-
-The First Expiry, First Out (FEFO) rule ensures that medications with the nearest expiration dates are dispensed first, preventing waste due to expired stock.
+3. Prevent drug wastage by applying the FEFO (First Expiry, First Out) rule to prioritize the dispensing of medications nearing expiration.
 
 
 
