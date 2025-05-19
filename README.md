@@ -40,7 +40,7 @@ Antihistamines was the top-selling category, Antidiabetics brought the most prof
 
 **What are the major operational expenses?**
 
-Rent takes a huge chunk of the expenses followed by salaries.
+Drug procurement takes a huge chunk of the expenses followed by salaries.
 
 [![Preview Image](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Expenses.png))](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/Expenses.png)
 
