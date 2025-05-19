@@ -144,17 +144,7 @@ Promotional campaigns targeting **Antifungals** (low sales) can increase awarene
 
 ### 👤 Operations Manager
 
-#### 💬 Q10: How much loss are we incurring from expired or damaged drugs?
-➡️ **A:**  
-₦60,000 in January — less than 1% of total expenses, but still a preventable cost.  
-Frequent minor losses may accumulate over time.
-
-#### 💬 Q11: How can we reduce losses from expiry?
-➡️ **A:**  
-Implement the **FEFO (First Expiry, First Out)** inventory system across all stock.  
-This ensures older stock is sold first, reducing expiry risk.
-
-#### 💬 Q12: Is logistics spending proportional to our delivery volume?
+#### 💬 Q10: Is logistics spending proportional to our delivery volume?
 ➡️ **A:**  
 ₦210,000 (3.1% of total expenses) is within reason but worth reviewing if volume is low.  
 **Action:** Benchmark delivery volume vs. spend to validate cost efficiency.
@@ -164,11 +154,6 @@ This ensures older stock is sold first, reducing expiry risk.
 1. Ensure a stable supply of high-demand drugs, especially antiallergic (during harmattan) and antidiabetic medications, to meet patient needs and avoid stockouts.
 
 2. Reduce drug costs by negotiating better terms with current suppliers, sourcing affordable alternatives through market research, and purchasing high-demand, long-shelf-life drugs in bulk.
-
-3. Prevent drug wastage by applying the FEFO (First Expiry, First Out) rule to prioritize the dispensing of medications nearing expiration.
-
-
-
 
 
 
