@@ -33,7 +33,7 @@ In collaboration with Pharmaline’s leadership team — comprising the **Chief 
 
 Pharmaline’s January sales totaled **₦12.4 million** across **3,825 units**, with strong contributions from **Antihistamines** and **Antidiabetic** drugs. Gross profit stood at **₦8.45 million**, reflecting a **67.9% gross margin**, although significant costs in procurement and salary expenses highlight opportunities for better cost control.
 
-The **top-selling categories** (Antihistamines and Antidiabetics) align with seasonal conditions and chronic illness trends, while **Antifungals underperformed** significantly.
+Antihistamines was the top-selling category, Antidiabetics brought the most profit, while Antifungals underperformed significantly.
 
 ## Analysis & Insights
 [Back to Table of Contents](#table-of-contents)
