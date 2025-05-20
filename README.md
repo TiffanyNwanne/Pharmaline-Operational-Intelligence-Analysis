@@ -38,6 +38,7 @@ Antihistamines was the top-selling category, Antidiabetics brought the most prof
 ## Analysis & Insights
 [Back to Table of Contents](#table-of-contents)
 
+The [methodology](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/Methodology.md) for this analysis is included in this report.
 **What are the major operational expenses?**
 
 Drug procurement takes a huge chunk of the expenses followed by salaries.
