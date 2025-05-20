@@ -22,6 +22,7 @@ This section outlines the steps taken to clean, analyze, and interpret the Janua
 
 - A new column was added to the *Sales* sheet to compute the **Total Sales** for each drug by multiplying the **Units Sold** by the **Unit Price**.
 
+
 [![](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/3.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/3.png)
 
 - The formula was applied across all rows to derive total sales figures for each product.
