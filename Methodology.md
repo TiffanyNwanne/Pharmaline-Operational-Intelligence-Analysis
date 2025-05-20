@@ -4,28 +4,38 @@ This section outlines the steps taken to clean, analyze, and interpret the Janua
 
 ### **Data Preparation and Cleaning**
 
-1. **Dataset Structure**
-    - The *Sales* sheet contained item-level sales data, including fields such as drug name, units sold, unit price, and unit cost.
-    - The *Expenses* sheet listed various operational and administrative costs incurred during the same month.
-2. **Data Cleaning**
+**Dataset Structure**
+
+- The *Sales* sheet contained item-level sales data, including fields such as drug name, units sold, unit price, and unit cost.
+[![](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/1.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/1.png)
+    
+- The *Expenses* sheet listed various operational and administrative costs incurred during the same month.
+[![](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/2.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/2.png)
+ 
+**Data Cleaning**
     - The dataset was reviewed for completeness and consistency.
     - Missing values were addressed, and data types were verified to ensure accurate calculations.
 
 ### **Sales and Cost Calculation**
 
-1. **Total Sales Calculation**
-    - A new column was added to the *Sales* sheet to compute the **Total Sales** for each drug by multiplying the **Units Sold** by the **Unit Price**.
-    - The formula was applied across all rows to derive total sales figures for each product.
-2. **Total Cost Calculation**
-    - Similarly, a column was created to calculate the **Total Cost** of each drug using the **Unit Cost** multiplied by the **Units Sold**.
-    - This allowed for a consistent view of drug acquisition costs.
-3. **Gross Profit Calculation**
-    - A **Gross Profit** column was introduced by subtracting the **Total Cost** from the **Total Sales** for each drug.
-    - This provided a preliminary measure of profitability before expenses.
+**Total Sales Calculation**
+
+- A new column was added to the *Sales* sheet to compute the **Total Sales** for each drug by multiplying the **Units Sold** by the **Unit Price**.
+[![](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/3.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/3.png)
+
+- The formula was applied across all rows to derive total sales figures for each product.
+[![](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/4.png)](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis/blob/main/images/methodology/4.png)
+
+**Total Cost Calculation**
+- Similarly, a column was created to calculate the **Total Cost** of each drug using the **Unit Cost** multiplied by the **Units Sold**.
+- This allowed for a consistent view of drug acquisition costs.
+**Gross Profit Calculation**
+- A **Gross Profit** column was introduced by subtracting the **Total Cost** from the **Total Sales** for each drug.
+- This provided a preliminary measure of profitability before expenses.
 
 ### **Data Summarization and Validation**
 
-1. **Pivot Table Analysis**
+**Pivot Table Analysis**
     - Pivot tables were used to aggregate the data and compute **Grand Totals** for sales, cost, and profit across all products.
     - These totals were compared against subtotal values grouped by drug categories to validate internal consistency. The values matched, confirming data accuracy.
 
