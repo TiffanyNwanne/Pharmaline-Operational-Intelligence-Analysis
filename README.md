@@ -86,9 +86,9 @@ Assuming similar markup across categories, Antifungals are likely less profitabl
 
 #### 💬 Q3: What are the biggest contributors to our overall expenses?
 ➡️ **A:**  
-- **Drug Procurement:** ₦3.99M (59.4% of all expenses)  
-- **Salaries:** ₦2M (29.8%)  
-- **Other Costs (Rent, Logistics, Damage):** 10.8%
+- **Drug Procurement:** ₦5.5M (66.95% of all expenses)  
+- **Salaries:** ₦1.9M (23.09%)  
+- **Other Costs (Rent, Logistics, Utilities):** 9.96%
 
 #### 💬 Q4: Can procurement costs be optimized?
 ➡️ **A:**  
